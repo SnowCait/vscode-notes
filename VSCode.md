@@ -2,6 +2,7 @@
 
 ## Extension
 
-- [REST Client - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
-- [Rainbow CSV - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
-- [Excel Viewer - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+- [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
