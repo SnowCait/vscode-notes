@@ -8,3 +8,8 @@
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
 - [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+### PHP
+
+- [PHP Intelephense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+- [PHP IntelliSense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) (deprecated)
