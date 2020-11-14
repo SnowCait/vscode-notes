@@ -11,5 +11,7 @@
 
 ### PHP
 
-- [PHP Intelephense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-- [PHP IntelliSense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) (deprecated)
+- [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
+  - [【PHP】VSCodeでPHP開発環境を整えてみよう(2020年夏)【おすすめ拡張機能】 - Rのつく財団入り口](https://iwasiman.hatenablog.com/entry/20200727-php-on-vscode)
+- [PHP IntelliSense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) (deprecated)
+- [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug)
